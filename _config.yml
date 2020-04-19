@@ -179,7 +179,7 @@ widgets:
         # Author name
         author: KJ Chiu
         # Author title
-        author_title: ./ coding
+        author_title: . / destination
         # Author's current location
         location: Taipei, Taiwan
         # URL or path to the avatar image
